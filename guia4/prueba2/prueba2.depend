@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712949194 source:d:\programacion fabiana\guia4\prueba2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+

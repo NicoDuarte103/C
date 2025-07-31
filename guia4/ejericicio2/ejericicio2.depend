@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713336965 source:/media/prometeo/Ventoy/Programacion Fabiana/guia4/ejericicio2/main.c
+	<stdio.h>
+	<stdlib.h>
+
