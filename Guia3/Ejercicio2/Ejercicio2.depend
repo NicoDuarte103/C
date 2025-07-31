@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1712630420 source:/media/prometeo/Ventoy/Programacion Fabiana/Guia3/Ejercicio2/main.c
+	<stdio.h>
+	<stdlib.h>
+
